@@ -46,11 +46,7 @@ Here are some ideas to get you started: -->
 <a href="https://ubuntu.com/download"><img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2011/05/ubuntu-logo.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"><img src="https://cdn.vox-cdn.com/thumbor/ltUW2EQSurxk3qPj_dt2TivIU80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19884401/linuxwindows.jpg" alt="WSL" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://stackoverflow.com/users/15954112/pablo-del-barrio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://open.spotify.com/user/missenthrop"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Spotify.png/900px-Spotify.png" alt="Spotify" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://letterboxd.com/pablodelbarrio/"><img src="https://w7.pngwing.com/pngs/183/847/png-transparent-letterboxd-iphone-app-store-film-iphone-electronics-orange-sphere-thumbnail.png" alt="Letterboxd" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://twitter.com/pablo_delbarrio"><img src="https://thumbs.dreamstime.com/b/icono-del-logo-de-twitter-voronezh-rusia-noviembre-cuadrado-en-color-azul-claro-164586095.jpg" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.instagram.com/pablo.del.barrio/"><img src="https://www.vinci-energies.es/content/uploads/sites/19/2020/02/instagram-png-instagram-png-logo-1455.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
 
 </p>
 
