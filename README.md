@@ -9,10 +9,10 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on <a href="https://github.com/Susana-Prado/BookMeApp" target="_blank" > BookMeApp </a>
 - 🌱 I’m currently learning <a href="https://es.reactjs.org/" target="_blank"> ReactJS </a>
-- 👯 I’m looking to collaborate with anyone who has social, cultural concerns and so on.
 - 💬 Ask me about music and movies!
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- ⚡ Fun fact: Math.random() <a href="https://hackernoon.com/how-does-javascripts-math-random-generate-random-numbers-ef0de6a20131" target="_blank">is not really random.</a>
+
+- My portfolio coming soon!  => <a href="http://pablo.lol/" target="_blank">pablo.lol</a>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
@@ -46,7 +46,8 @@ Here are some ideas to get you started: -->
 <a href="https://ubuntu.com/download"><img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2011/05/ubuntu-logo.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"><img src="https://cdn.vox-cdn.com/thumbor/ltUW2EQSurxk3qPj_dt2TivIU80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19884401/linuxwindows.jpg" alt="WSL" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://stackoverflow.com/users/15954112/pablo-del-barrio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
+
 
 </p>
 
