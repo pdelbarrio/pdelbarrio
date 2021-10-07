@@ -8,14 +8,14 @@ Here are some ideas to get you started: -->
 ## Full Stack Developer from Barcelona 👨🏼‍💻
 
 - 🔭 I’m currently working on <a href="https://github.com/Susana-Prado/BookMeApp" target="_blank" > BookMeApp </a>
-- 🌱 I’m currently learning <a href="https://es.reactjs.org/" target="_blank"> ReactJS </a>
-- 💬 Ask me about music and movies!
+- 🌱 I’m currently improving my <a href="https://es.reactjs.org/" target="_blank"> ReactJS </a> skills.
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 
 - My portfolio coming soon!  => <a href="http://pablo.lol/" target="_blank">pablo.lol</a>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
+<img src="https://pbs.twimg.com/profile_banners/1352667517278412802/1632149168/1500x500" alt="my logo">
 
 <br />
 
