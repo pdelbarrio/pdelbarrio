@@ -5,10 +5,9 @@
 **pdelbarrio/pdelbarrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-## Full Stack Developer from Barcelona 👨🏼‍💻
+## Frontend Developer from Barcelona 👨🏼‍💻
 
-- 🔭 I’m currently working on <a href="https://github.com/Susana-Prado/BookMeApp" target="_blank" > BookMeApp </a>
-- 🌱 I’m currently improving my <a href="https://es.reactjs.org/" target="_blank"> ReactJS </a> skills.
+
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 
 - My portfolio coming soon!  => <a href="http://pablo.lol/" target="_blank">pablo.lol</a>
