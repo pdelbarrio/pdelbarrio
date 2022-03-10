@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
-<img src="https://pbs.twimg.com/profile_banners/1352667517278412802/1632149168/1500x500" alt="my logo">
+<img src="https://pbs.twimg.com/profile_banners/1352667517278412802/1646907342/1080x360" alt="my logo">
 
 <br />
 
