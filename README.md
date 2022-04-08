@@ -11,6 +11,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 
 - My portfolio coming soon!  => <a href="http://pablo.lol/" target="_blank">pablo.lol</a>
+- I'm currently learning Typescript and TDD with Jest
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
@@ -41,11 +42,8 @@ Here are some ideas to get you started: -->
 <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction"><img src="https://www.pnguniverse.com/wp-content/uploads/2020/12/xml.png" alt="XML" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqCga05i6v6rhqKhZALTzuqHL5vLUp4IQd7W2RbkBbDWI7HjFxq2NmKokKXBzG5kLFIw&usqp=CAU" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/premiere.html"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" alt="Premiere" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.microsoft.com/es-es/software-download/windows10"><img src="https://imagenpng.com/wp-content/uploads/2015/06/Windows-10.png" alt="Windows 10" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://ubuntu.com/download"><img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2011/05/ubuntu-logo.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"><img src="https://cdn.vox-cdn.com/thumbor/ltUW2EQSurxk3qPj_dt2TivIU80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19884401/linuxwindows.jpg" alt="WSL" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://stackoverflow.com/users/15954112/pablo-del-barrio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
+
+
 
 
 </p>
