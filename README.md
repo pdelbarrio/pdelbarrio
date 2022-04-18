@@ -11,7 +11,8 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 
 - My portfolio coming soon!  => <a href="http://pablo.lol/" target="_blank">pablo.lol</a>
-- I'm currently learning Typescript and TDD with Jest
+- I'm currently working on an app called GET OUT, which will be a database of cool places in the city. Users will be able to register to add sites to favorites and will be able to register new sites that will be added to the database (after moderation) so that other users can discover those sites.
+I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
