@@ -1,31 +1,33 @@
-
 ### Hi, this is Pablo 👋
 
 <!--
 **pdelbarrio/pdelbarrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-## Full Stack Developer from Barcelona 👨🏼‍💻
 
-- 🔭 I’m currently working on <a href="https://github.com/Susana-Prado/BookMeApp" target="_blank" > BookMeApp </a>
-- 🌱 I’m currently learning <a href="https://es.reactjs.org/" target="_blank"> ReactJS </a>
-- 👯 I’m looking to collaborate with anyone who has social, cultural concerns and so on.
-- 💬 Ask me about music and movies!
+## Frontend Developer from Barcelona 👨🏼‍💻
+
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- ⚡ Fun fact: Math.random() <a href="https://hackernoon.com/how-does-javascripts-math-random-generate-random-numbers-ef0de6a20131" target="_blank">is not really random.</a>
+- My portfolio coming soon! => <a href="https://pablo.lol/">pablo.lol</a>
+- I'm currently working on an app called GET OUT, which will be a database of cool places in the city. Users will be able to register to add sites to favorites and will be able to register new sites that will be added to the database (after moderation) so that other users can discover those sites. I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
+  <br/>
 
+![Alt text](https://res.cloudinary.com/getoutbcn/image/upload/v1652441002/portfolio/pablogif_bkrlpu.gif)
 <br />
 
 ## 🧰 Languages and Tools and so on:
+
 <p align="center">
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://jestjs.io/es-ES/"><img src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="40" style="vertical-align:top; margin:4px"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://expressjs.com/"><img src="https://camo.githubusercontent.com/b7e5d0b14a1a7589dfd12e716a8e34f2348b6e6e068ec2f9e10cc4c0e97c43c8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b6576636d7a33692f696d6167652f75706c6f61642f625f7267623a6666666666662f76313632303530363333342f506572736f6e616c2f47697468756225323066726f6e74253230726561646d652f657870726573736a735f64626c6372762e706e67" alt="Express" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://git-scm.com/"><img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://code.visualstudio.com/"><img src="https://camo.githubusercontent.com/9ac774797670762d9e6338d7ee490fc1c98d6939d1af58c052a678d004594915/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646b6576636d7a33692f696d6167652f75706c6f61642f76313632303530363333382f506572736f6e616c2f47697468756225323066726f6e74253230726561646d652f7673636f64655f6239646c6f382e737667" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://heroku.com/"><img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="Heroku" height="40" style="vertical-align:top; margin:4px"></a>
@@ -42,15 +44,11 @@ Here are some ideas to get you started: -->
 <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction"><img src="https://www.pnguniverse.com/wp-content/uploads/2020/12/xml.png" alt="XML" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqCga05i6v6rhqKhZALTzuqHL5vLUp4IQd7W2RbkBbDWI7HjFxq2NmKokKXBzG5kLFIw&usqp=CAU" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/premiere.html"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" alt="Premiere" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://www.microsoft.com/es-es/software-download/windows10"><img src="https://imagenpng.com/wp-content/uploads/2015/06/Windows-10.png" alt="Windows 10" height="40" style="vertical-align:top; margin:4px"></a>
+
 <a href="https://ubuntu.com/download"><img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2011/05/ubuntu-logo.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux"><img src="https://cdn.vox-cdn.com/thumbor/ltUW2EQSurxk3qPj_dt2TivIU80=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19884401/linuxwindows.jpg" alt="WSL" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://stackoverflow.com/users/15954112/pablo-del-barrio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://dev.to/pdelbarrio"><img src="https://nucleoid.org/media/dev.to.png" alt="DEV TO" height="40" style="vertical-align:top; margin:4px"></a>
+<
 
 </p>
-
-
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdelbarrio&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -63,4 +61,3 @@ Here are some ideas to get you started: -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdelbarrio&show_icons=true&theme=highcontrast" />
 </a>
-
