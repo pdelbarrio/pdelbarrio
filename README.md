@@ -16,7 +16,7 @@ I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
-<img src="https://im2.ezgif.com/tmp/ezgif-2-a8ad0f6d4e.gif" alt="my logo">
+<img src="https://res.cloudinary.com/getoutbcn/image/upload/v1652441002/portfolio/pablogif_bkrlpu.gif" alt="my logo">
 
 <br />
 
