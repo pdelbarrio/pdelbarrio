@@ -44,9 +44,7 @@ Here are some ideas to get you started: -->
 <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction"><img src="https://www.pnguniverse.com/wp-content/uploads/2020/12/xml.png" alt="XML" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/photoshop.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqCga05i6v6rhqKhZALTzuqHL5vLUp4IQd7W2RbkBbDWI7HjFxq2NmKokKXBzG5kLFIw&usqp=CAU" alt="Photoshop" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.adobe.com/es/products/premiere.html"><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-3.png" alt="Premiere" height="40" style="vertical-align:top; margin:4px"></a>
-
 <a href="https://ubuntu.com/download"><img src="https://live.mrf.io/statics/i/ps/www.muylinux.com/wp-content/uploads/2011/05/ubuntu-logo.png" alt="Ubuntu" height="40" style="vertical-align:top; margin:4px"></a>
-<
 
 </p>
 
