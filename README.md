@@ -8,12 +8,13 @@ Here are some ideas to get you started: -->
 ## Frontend Developer from Barcelona 👨🏼‍💻
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- My portfolio coming soon! => <a href="https://pablo.lol/">pablo.lol</a>
-- I'm currently working on an app called GET OUT, which will be a database of cool places in the city. Users will be able to register to add sites to favorites and will be able to register new sites that will be added to the database (after moderation) so that other users can discover those sites. I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
+- My portfolio => <a href="https://pablo.lol/">pablo.lol</a>
+- I'm currently working on an app called GET OUT. GET OUT BCN is a collaborative database of cool spots in Barcelona. It is divided into different categories. The user has to register to browse or to add spots to the database. The spots are moderated and will not appear until validated by the administrator.. I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
+  You can try to access if you want => <a href="https://www.getoutbcn.com/">getoutbcn.com</a>
 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
-  <br/>
+    <br/>
 
 ![Alt text](https://res.cloudinary.com/getoutbcn/image/upload/v1652441931/portfolio/pablogif1_zbgkk2.gif)
 <br />
