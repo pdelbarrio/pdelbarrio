@@ -9,8 +9,7 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 - My portfolio => <a href="https://pablo.lol/">pablo.lol</a>
-- I'm currently working on an app called GET OUT. GET OUT BCN is a collaborative database of cool spots in Barcelona. It is divided into different categories. The user has to register to browse or to add spots to the database. The spots are moderated and will not appear until validated by the administrator.. I'm doing it with the MERN stack using Typescript, Javascript and TDD with JEST.
-  You can try to access if you want => <a href="https://www.getoutbcn.com/">getoutbcn.com</a>
+- Currently starting from scratch an application for React Native type event calendar where users can enter events and then view them according to some filters. Stay tuned.
 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
