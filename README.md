@@ -1,15 +1,10 @@
 ### Hi, this is Pablo 👋
 
-<!--
-**pdelbarrio/pdelbarrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
 ## Frontend Developer from Barcelona 👨🏼‍💻
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 - My portfolio => <a href="https://pablo.lol/">pablo.lol</a>
-- Currently starting from scratch an application for React Native type event calendar where users can enter events and then view them according to some filters. Stay tuned.
+- I am currently starting an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them according to some filters. Stay tuned.
 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
@@ -24,6 +19,9 @@ Here are some ideas to get you started: -->
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://reactnative.dev/"><img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="React Native" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJs" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://reactjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://jestjs.io/es-ES/"><img src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg" alt="Jest" height="40" style="vertical-align:top; margin:4px"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="Typescript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px"></a>
