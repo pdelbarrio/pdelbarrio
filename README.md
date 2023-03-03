@@ -3,8 +3,9 @@
 ## Frontend Developer from Barcelona 👨🏼‍💻
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- My portfolio => <a href="https://pablo.lol/">pablo.lol</a>
-- I am currently starting an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them according to some filters. It will be done mainly with Nextjs, Tailwind and Firebase. Stay tuned.
+- My portfolio ➡️ <a href="https://pablo.lol/">pablo.lol</a>
+- 📱I am currently starting an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them according to some filters. It will be done mainly with Nextjs, Tailwind and Firebase. Stay tuned.
+- 👨🏻‍💻 Before that I am studying in depth the features of the latest version of Nextjs to be able to take advantage of its advantages in terms of rendering, etc.
 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
