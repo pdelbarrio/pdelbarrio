@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
 - My portfolio ➡️ <a href="https://pablo.lol/">pablo.lol</a>
-- 📱I am currently starting an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them according to some filters. It will be done mainly with Nextjs, Tailwind and Supabase. Stay tuned.
+- 📱Currently I'm about to finish an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them. It is made with Nextjs, Tailwind and Supabase. 
 
 
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
