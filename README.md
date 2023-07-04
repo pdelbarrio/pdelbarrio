@@ -3,7 +3,7 @@
 ## Frontend Developer from Barcelona 👨🏼‍💻
 
 - 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- My portfolio ➡️ <a href="https://pablo.lol/">pablo.lol</a>
+- My portfolio ➡️ <a href="https://pablodelbarrio.es/">pablodelbarrio.es</a>
 - 📱Currently I'm about to finish an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them. It is made with Nextjs, Tailwind and Supabase. 
 
 
