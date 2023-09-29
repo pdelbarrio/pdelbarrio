@@ -1,17 +1,20 @@
-### Hi, this is Pablo 👋
+### Hi, I'm Pablo! 👋
 
 ## Frontend Developer from Barcelona 👨🏼‍💻
 
-- 📫 How to reach me: <a href="mailto:pablodbb@gmail.com">pablodbb@gmail.com</a>
-- My portfolio ➡️ <a href="https://pablodelbarrio.es/">pablodelbarrio.es</a>
-- 📱Currently I'm about to finish an app that is a collaborative agenda of cultural events in Barcelona. Users can enter events and then view them. It is made with Nextjs, Tailwind and Supabase. 
+- 📫 How to reach me: [pablodbb@gmail.com](mailto:pablodbb@gmail.com)
+- My portfolio ➡️ [pablodelbarrio.es](https://pablodelbarrio.es)
+- 📱 My latest project is a highly useful collaborative event agenda application, built with the latest version of Next.js, leveraging React Server Components, Tailwind for styling, and integrated with Supabase as a database, eliminating the need for a traditional backend. You can check it out [here](https://atbcn.info/).
 
+  <img src="https://res.cloudinary.com/getoutbcn/image/upload/w_400/v1694022411/portfolio/projects/atbcnMOCK_znpbvs.png" alt="Event Agenda App" width="40%">
 
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
+- Currently, I'm diving deeper into React and refreshing my knowledge in React Native, focusing on best practices and exploring new techniques. You can check out my projects on this GitHub.
 
-    <br/>
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pablo-del-barrio/)
 
-<br />
+<br/>
+<br/>
+
 
 ## 🧰 Languages and Tools and so on:
 
