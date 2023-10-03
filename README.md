@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: [pablodbb@gmail.com](mailto:pablodbb@gmail.com)
 - My portfolio ➡️ [pablodelbarrio.es](https://pablodelbarrio.es)
-- 📱 My latest project is a highly useful collaborative event agenda application, built with the latest version of Next.js, leveraging React Server Components, Tailwind for styling, and integrated with Supabase as a database, eliminating the need for a traditional backend. You can check it out [here](https://atbcn.info/).
+- 📱 My latest project is **atbcn.info**, a highly useful collaborative event agenda application, built with the latest version of Next.js, leveraging React Server Components, Tailwind for styling, and integrated with Supabase as a database, eliminating the need for a traditional backend. You can check it out [here](https://atbcn.info/).
 
   <img src="https://res.cloudinary.com/getoutbcn/image/upload/w_400/v1694022411/portfolio/projects/atbcnMOCK_znpbvs.png" alt="Event Agenda App" width="40%">
 
