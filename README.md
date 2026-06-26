@@ -1,6 +1,6 @@
 ### Hi, I'm Pablo! 👋
 
-## Frontend Developer from Barcelona 👨🏼‍💻
+## Software Developer from Barcelona 👨🏼‍💻
 
 - 📫 How to reach me: [pablodbb@gmail.com](mailto:pablodbb@gmail.com)
 - My portfolio ➡️ [pablodelbarrio.es](https://pablodelbarrio.es)
@@ -16,35 +16,6 @@
 <br/>
 
 
-## 🧰 Languages and Tools and so on:
-
-<p align="center">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/html_amjhaa.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/css_qeb8mq.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/javascript_t9lsm6.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/react_wda0bf.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/typescript_hcwhiv.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/reactnative_mpsyqb.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/nextjs_jvhqk8.png" alt="NextJS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/github1_bmscmu.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/redux_jmav7b.png" alt="Redux" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/sass_i74yxh.png" alt="Sass" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/styledcomponents_bb8jrv.png" alt="Styled Components" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/tailwind_jvfisk.png" alt="Tailwind" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1686760375/portfolio/skills/supabase_os8pen.png" alt="Supabase" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/firebase_mukml9.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/mongo_zulpri.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/node_msyvl0.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/sql_zg79bq.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675888744/portfolio/skills/postgreSQL_kwec7x.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/jest_rxc3wy.png" alt="Jest" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1707833381/portfolio/skills/cypress_bjhj4e.jpg" alt="Cypress" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675888854/portfolio/skills/docker_jjsmjr.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675889195/portfolio/skills/PWA_qrkp44.png" alt="PWA" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346771/portfolio/skills/figma_yhfp4k.png" alt="Figma" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/photoshop_u0t3wn.png" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://res.cloudinary.com/getoutbcn/image/upload/v1675346770/portfolio/skills/premiere_vwt8n3.png" alt="Premiere" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdelbarrio&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
